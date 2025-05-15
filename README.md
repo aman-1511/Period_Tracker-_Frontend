@@ -4,6 +4,8 @@ This directory contains the frontend code for the Period Tracker application, bu
 
 ## Overview
 
+![Image](https://github.com/user-attachments/assets/272d00b3-94a8-4e94-8271-222e6853d0ce)
+
 The frontend provides the user interface for interacting with the Period Tracker application. It allows users to:
 
 - Log in and manage their accounts.
